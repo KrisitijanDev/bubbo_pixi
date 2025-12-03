@@ -17,21 +17,6 @@ This project utilises multiple pixi based libraries including;
 # Prerequisites
 To run this project, you need to have `Node.js` and `npm` installed on your system.
 
-# Setup and run the game
-```sh
-# Clone the repository
-git clone https://github.com/pixijs/open-games
-
-# Clone the repository
-cd ./bubbo-bubbo
-
-# Install dependencies
-npm install
-
-# Start the project
-npm run start
-```
-
 # Building the game
 ```sh
 # Compile the game into a bundle, which can be found in `dist/`
@@ -55,13 +40,3 @@ Feel free to use this project as a reference for your own game development. Use 
 
 # Contributions
 We encourage you to fork the repository and improve the game in any way you see fit. Share your improvements with the community by submitting pull requests to the original repository.
-
-# License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## GSAP
-
-This game uses GSAP for its animations. You can use the free version of GSAP for some commercial projects. However please check the licensing options from [GreenSock](https://greensock.com/licensing/).
-
----
-> Author [@AshsHub](https://github.com/AshsHub)
