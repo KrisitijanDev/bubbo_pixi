@@ -1,3 +1,5 @@
+https://bubbo-pixi.vercel.app/
+
 # Bubbo Bubbo
 
 Welcome to the Bubbo Bubbo open source game! This project was created to help developers learn how a professional makes games using the PixiJS library. The goal of this project is to provide a comprehensive guide and example of game development in PixiJS.
